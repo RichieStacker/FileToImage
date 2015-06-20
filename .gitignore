@@ -57,3 +57,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+build.xml
+build/built-jar.properties
+dist/README.TXT
+dracChap1.png
+dracChap1.zip
+dracChap1.txt
+manifest.mf
+input.txt
+saved.png
+Quark.png
+nbproject/project.xml
+pg6039.txt
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
