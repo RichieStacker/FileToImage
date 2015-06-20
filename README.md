@@ -7,7 +7,7 @@ Takes a file (specified in its arguments or upon request) and creates an image f
 ## Usage
 
 From a command line:
-java -jar <folder path>FileToImage.jar <file path and name>
+java -jar (folder path)FileToImage.jar (file path and name)
 
 ## Why?
 Fun, mostly.
