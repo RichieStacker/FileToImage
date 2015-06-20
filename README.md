@@ -14,7 +14,7 @@ Fun, mostly.
 
 ## To do (read: things I could toss in to improve this thing a little)
 
-*Allow user control of image file output (such as format, name etc.)
-*Make the input itself not rubbish
-*Write better Javadoc. Seriously, does any of that crud even make sense to anyone?
-*A billion other things, probably.
+*Allow user control of image file output (such as format, name etc.)<br/>
+*Make the input itself not rubbish.<br/>
+*Write better Javadoc. Seriously, does any of that crud even make sense to anyone?<br/>
+*A billion other things, probably.<br/>
